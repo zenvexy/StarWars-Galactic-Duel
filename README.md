@@ -134,7 +134,7 @@ Com `npm`, o comando de produção é `npm run build`.
 
 ## Créditos
 
-- [Enzo Toniato](https://github.com/EnzoToniato567)
+- [Enzo Toniato](https://github.com/zenvexy)
 - [Murilo](https://github.com/Murilo1602)
 - [Henrique](https://github.com/HenriqueAlth09)
 - [Davi](https://github.com/davi-lm7)
